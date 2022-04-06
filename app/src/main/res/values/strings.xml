@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lesson3.CalcLogical</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="button0">0</string>
+    <string name="button_pnt">.</string>
+    <string name="button_add">+</string>
+    <string name="button_subtraction">-</string>
+    <string name="button_divide">/</string>
+    <string name="button_multiplication">*</string>
+    <string name="button_equally">=</string>
+    <string name="button_comma">,</string>
+    <string name="Calculator">Калькулятор</string>
+    <string name="Drawable1">Рисунок какой-то</string>
+    <string name="EnterArg1">Введите первое число</string>
+    <string name="EnterArg2">Введите второе число</string>
+    <string name="Result">Результат</string>
+</resources>
